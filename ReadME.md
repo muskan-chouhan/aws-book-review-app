@@ -269,7 +269,12 @@ Before starting, make sure you have:
 
 Cloud & DevOps Learner | Web Developer
 
+📧 **Email:** mushkanc430@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/muskanchn  
+🐙 **GitHub:** https://github.com/muskan-chouhan/
+
+---
+
 ⭐ If you found this project useful, feel free to explore the repository and give it a star.
 
 
----

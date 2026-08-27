@@ -48,10 +48,6 @@ Created a custom VPC with isolated Public & Private Subnets across multiple Avai
   <br><em>Figure 1.2: Public and Private Subnets Configuration</em>
 </p>
 
-<p align="center">
-  <img src="./images/route-tables.png" alt="Route Tables" width="700"/>
-  <br><em>Figure 1.3: Custom Route Tables Configuration</em>
-</p>
 
 <p align="center">
   <img src="./images/nat-gateway.png" alt="NAT Gateway" width="700"/>
